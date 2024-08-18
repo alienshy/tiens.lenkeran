@@ -1,0 +1,224 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Sink",
+            "description": "Sink orqanizmdə lazım olan vacib elementlərdən biridir. Bu mikroelementin çatışmazlığı bir çox xəstəliklərin yaranmasına səbəb olur.",
+            "instructions": [
+                "Qrip və digər infeksion xəstəliklərin müalicəsində və profilaktikasında",
+                "İmmun sistemini möhkəmləndirir",
+                "Saçların tökülməsinin qarşısını alır, uzanmasını təmin edir",
+                "Dırnaqların qırılmasının, qat-qat soyulmasının qarşısını alır",
+                "Yaxından və uzaqdan görmənin müalicəsində və profilaktikasında istifadə olunur",
+                "Müxtəlif növ allergiyalarda istifadə olunur",
+                "Hormonal balansın tənzimlənməsində mühüm rol oynayır",
+                "Sonsuzluğun və cinsi problemlərin müalicəsində",
+                "Sinir psixi pozulmalarda, nevrozun müalicəsində",
+                "Prostat vəzinin müalicəsində",
+                "Klimaks zamanı orqanizm zəifləməsinin qarşısının alınmasında"
+            ],
+            "composition": "Flakonda 60 kapsul",
+            "contact": {
+                 "phone": "994507650828",
+                "delivery": {
+                    "metro": "Metrolara çatdırılma pulsuzdur",
+                    "rayon": "Rayonlara çatdırılma var"
+                }
+            },
+            "image": "./assets/image/sink.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Spirulina",
+            "description": "Yabanı spirulina mikroyosunundan Alman biotexnologiyası ilə yüksək emal nəticəsində alınmış çoxlu çeşiddə olduqca faydalı maddələr.",
+            "instructions": [
+                "Revmatizmanın müalicəsində gözəl nəticə verir",
+                "Orqanizmi vitaminlərlə zənginləşdirərək immuniteti gücləndirir",
+                "Uşaqlarda iştahı normallaşdırır, orqanizmi sağlamlaşdırır, beyni qidalandırır",
+                "Dəmir çatışmazlığını aradan qaldırır",
+                "Göz xəstəliklərinin kompleks müalicəsində əla effekt verir (katarakta, gecə korluğu və s.)",
+                "Bütün növ qanazlıqlarını aradan qaldırır"
+            ],
+            "composition": "Dəmir, yod, kalsium, sink, maqnezium, selen, mis, fosfor, qalay, manqan, vanadium, xrom, bor, silisium, vitaminlər və s.",
+            "contact": {
+                 "phone": "994507650828",
+                "delivery": {
+                    "metro": "Metrolara çatdırılma pulsuzdur",
+                    "rayon": "Rayonlara çatdırılma var"
+                }
+            },
+            "image": "./assets/image/spirulina.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Kordiseps",
+            "description": "Alman biotexnologiyası ilə fermentləşdirilmiş yabanı kordiseps göbələyinin tozu.",
+            "instructions": [
+                "Xoşxassəli şişlərin, kistaların əridilməsi proqramında",
+                "Bədxassəli şişlərdə (xolikanla, xitozanla, spirulina ilə yanaşı) xəstəliyin inkişafını xeyli tormozlamaq olur",
+                "Qan xəstəliklərinin müalicəsi üçün",
+                "İltihabi, infeksion proseslərin müalicəsi üçün",
+                "Kalsium, fosfor və digər mineralların tarazlığını tənzimləmək üçün"
+            ],
+            "composition": "500 mq kordiseps miselisinin tozu",
+            "contact": {
+                 "phone": "994507650828"
+            },
+            "image": "./assets/image/Kordiseps.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Xitozan",
+            "description": "Yapon dənizində yaşayan qırmızıayaq xərçəngin zirehindən alınır.",
+            "instructions": [
+                "Orqanizmi şlaklardan, dərman qalıqlarından və digər ziyanlı maddələrdən təmizləyir",
+                "Həzmi yaxşılaşdırır, köpü, ishalı, qəbizliyi aradan qaldırır",
+                "Qastirit, duodenit, mədə və 12 barmaq bağırsaq xorasında",
+                "Qaraciyər xəstəliklərinin, qaraciyər piylənməsinin sağaldılmasında",
+                "Mədəaltı vəzinin, öd kisəsinin işini yaxşılaşdırır",
+                "Yüksək təzyiqi aşağı salır (Eyni zamanda aşağı təzyiqi nizamlayır)",
+                "Babasili, düz bağırsaq çatınını sağaldır",
+                "Artıq çəkini azaltmağa kömək edir",
+                "İri və xırda qan damarlarından xolesterin və s. yağ birləşmələrini təmizləyir",
+                "Fibroma, mioma, kistalar, lipoma, adenomanın müalicəsində",
+                "Turş mühiti sabitləşdirir",
+                "Bel nahiyəsindəki ağrıları götürür"
+            ],
+            "composition": "Xərçəngin zirehindən alınır",
+            "contact": {
+                 "phone": "994507650828"
+            },
+            "image": "./assets/image/Xitozan.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Veykan",
+            "description": "Buğda cücərtisinin yağı və E vitamini tərkibli əlavələr.",
+            "instructions": [
+                "Görmə qabiliyyətinin müalicəsində (yaxından və uzaqdan görmə)",
+                "Qadın və kişi sonsuzluğunda",
+                "Aybaşı pozuntularında",
+                "Kişilərdə spermanın aktivlik faizinin artırılmasında",
+                "Şiş xəstəliklərində - Onkoloji xəstəliklərdə",
+                "Klimaksın gedişatını yüngülləşdirməsində",
+                "Ümumi tonuslandırıcı vasitə kimi",
+                "Hamiləlik zamanı dölün inkişafında",
+                "Planlaşdırılmış hamiləlik zamanı"
+            ],
+            "composition": "Buğda cücərtisinin yağı, E vitamini",
+            "contact": {
+                 "phone": "994507650828",
+                "delivery": {
+                    "metro": "Metrolara çatdırılma pulsuzdur",
+                    "rayon": "Rayonlara çatdırılma var"
+                }
+            },
+            "image": "./assets/image/veykan.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Uşaq Kalsiumu",
+            "description": "Müasir Alman biotexnologiyası ilə iribuynuzlu öküzlərin sümüklərindən ayrılmış və ionlaşmış kalsium.",
+            "composition": "Kalsium - 3600 mq, Vitamin C - 6 mq",
+            "contact": {
+                 "phone": "994507650828"
+            },
+            "image": "./assets/image/usaqKalsıum.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Xolikan",
+            "description": "Qırmızı üzüm sortunun toxum və saplağından alınmış ekstrakt.",
+            "instructions": [
+                "Çox güclü antioksidantdır",
+                "Resveratrol xərçəngin əmələ gəlməsinin qarşısını almaq üçün ideal vasitədir",
+                "Resveratrol ateroskleroz riskini azaldır, hətta yaranmış xolesterin düyünlərini əridir",
+                "Qanda yağların səviyyəsini tənzimləyir. Damarları 'kirəcdən' təmizləyir",
+                "Ürək-damar, beyin-damar xəstəliklərinin müalicə proqramında effektivdir",
+                "Daxilə qəbul edilən kosmetik vasitə kimi dərini uzun müddət cavan saxlamağa qadirdir",
+                "Xoş xassəli və bəd xassəli şişlərin profilaktikası və müalicəsində əvəzolunmazdır",
+                "Sərbəst radikalları və digər ziyanlı maddələri orqanizmdən xaric edir",
+                "Yaddaşı yaxşılaşdırır",
+                "Orqanizmin stresə qarşı davamlılığını artırır"
+            ],
+            "composition": "Resveratrol, Vitamin C və s.",
+            "contact": {
+                 "phone": "994507650828"
+            },
+            "image": "./assets/image/xiolikan.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "Fruktozan",
+            "description": "Mədə bağırsaq pozğunluğu zamanı istifadə olunur və anında effekt verir.",
+            "instructions": [
+                "Mədə bağırsağın kompleks müalicəsində istifadə olunur",
+                "Qəbizliyi müalicə edir",
+                "Həzm sistemindəki problemləri aradan qaldırır",
+                "Faydalı bakteriyaların yaranması təmin edir",
+                "Köpü aradan qaldırır",
+                "Arıqlama proqramında istifadə olunur",
+                "Şəkərli diabet zamanı sıradan çıxan mədəaltı vəzinin işini bərpa edir",
+                "Bağırsağı şlaklardan, toksinlərdən, qida qalıqlarından təmizləyir",
+                "İshalı aradan qaldırır"
+            ],
+            "composition": "BİFİDOBAKTERİ və faydalı vitaminlər",
+            "contact": {
+                 "phone": "994507650828",
+                "delivery": {
+                    "metro": "Metrolara çatdırılma pulsuzdur",
+                    "rayon": "Rayonlara çatdırılma var"
+                }
+            },
+            "image": "./assets/image/fruktozan.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Bio Kalsium",
+            "description": "Kalsium orqanizm üçün vacib olan 5 əsas elementdən biridir. Kalsium çatışmadıqda orqanizmdə bir çox proseslər pozulur.",
+            "instructions": [
+                "Sümüklərin möhkəm olmasında",
+                "Əzələlərin fəaliyyətində",
+                "Dişlərin sağlamlığında",
+                "Qanın normal laxtalanmasında",
+                "İmmunitetin möhkəmləndirilməsində",
+                "Yaddaşın gücləndirilməsində",
+                "Bel və ayaqda, ayaqlarda yaranan ağrıların müalicəsində",
+                "Yuxusuzluğun müalicəsində",
+                "Revmatizmin müalicəsində"
+            ],
+            "composition": "10 paket, 10 qramlıq",
+            "contact": {
+                 "phone": "994507650828"
+            },
+            "delivery": {
+                "metro": "Metrolara çatdırılma pulsuzdur",
+                "rayon": "Rayonlara çatdırılma var"
+            },
+            "image": "./assets/image/BioKalsium.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Orecare Diş Məcunu",
+            "description": "Orecare - diş məcunu müalicəvi effektə malikdir. 1 həftəyə tam nəticə verir.",
+            "instructions": [
+                "Ağız boşluğunun və dişlərin gigiyenası üçün",
+                "Stomatit, parodontoz (diş ətinin iltihabi prosesi), karies",
+                "Damaqların qanaxması",
+                "Ağızda pis qoxu",
+                "Ağız boşluğunun şiş xəstəliklərinin profilaktikası",
+                "Dişlərin möhkəmliyini effektiv artırır",
+                "Dişlərdə yaranan ərpi yaxşı təmizləyir və dişin emalını möhkəmləndirir"
+            ],
+            "composition": "Təbiiliyini öyrənmək üçün yaşıl barkodda istehsal olunur.",
+            "contact": {
+                 "phone": "994507650828"
+            },
+            "delivery": {
+                "metro": "Metrolara çatdırılma pulsuzdur",
+                "rayon": "Rayonlara çatdırılma var"
+            },
+            "image": "./assets/image/disMecun.jpg"
+        }
+    ]
+}

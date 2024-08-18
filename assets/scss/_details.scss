@@ -1,0 +1,94 @@
+/* Product Detail Section */
+#product-detail {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+#product-detail img {
+    width: 70%; /* Reduced image size */
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#product-detail h1 {
+    font-size: 32px; /* Increased font size */
+    color: #333333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#product-detail p {
+    font-size: 18px; /* Increased font size */
+    color: #555555;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+#product-detail h2 {
+    font-size: 24px; /* Increased font size */
+    color: #333333;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#product-detail ul {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+#product-detail ul li {
+    font-size: 18px; /* Increased font size */
+    color: #555555;
+    line-height: 1.8;
+    margin-bottom: 10px;
+}
+
+#product-detail h3 {
+    font-size: 22px;
+    color: #333333;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+/* Back Button */
+#back-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+}
+
+#back-button:hover {
+    background-color: #0056b3;
+}
+
+/* Instagram Link */
+.instagram-link {
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.instagram-link a {
+    font-size: 18px;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.instagram-link a:hover {
+    color: #0056b3;
+}

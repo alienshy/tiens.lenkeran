@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>Medicin</title>
+</head>
+<body>
+    <nav>
+        <div class="container nav">
+            <div class="left"><img src="./assets/image/IMG_8511.JPG" width="60" alt="">
+            </div>
+            <div class="right">
+                <ul class="center">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Store</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+                <a href="#">Log in</a>
+                <button>Start For free</button>
+            </div>
+            <i class="bi bi-list" id="menuIcon"></i>
+        </div>
+    </nav>
+
+    <div class="menu">
+        <div class="top">
+            <div>Tiens</div>
+            <i class="bi bi-x" id="closeIcon"></i>
+        </div>
+        <ul class="center2">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Store</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+        <div class="bot">
+            <a href="#">Log in</a>
+            <button>Start For free</button>
+        </div>
+    </div>
+
+    <div class="section1">
+        <div class="container section11">
+            <div class="text">
+                <h1>Welcome To Medicin</h1>
+                <p>Effective Medicine, New Medicine Everyday</p>
+                <button>Shop Now</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="section-medicines">
+        <div class="container">
+            <h2>Our Medicines</h2>
+            <div class="filters">
+                <input type="text" id="search" placeholder="Search...">
+                <select id="priceFilter">
+                    <option value="">Sort by Price</option>
+                    <option value="low-high">Low to High</option>
+                    <option value="high-low">High to Low</option>
+                </select>
+            </div>
+            <div class="medicine-carousel">
+                <div class="carousel-inner">
+                    <!-- Medicine items will be inserted here -->
+                </div>
+            </div>
+            <div class="pagination">
+                <button class="page-btn prev-page">&laquo; Prev</button>
+                <!-- Page buttons will be dynamically inserted here -->
+                <button class="page-btn next-page">Next &raquo;</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="./assets/script/script.js"></script>
+</body>
+</html>
