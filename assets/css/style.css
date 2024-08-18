@@ -444,7 +444,7 @@ input[type=text]:focus, select:focus {
 /* Image Styling */
 .carousel-item .image {
   margin-bottom: 10px;
-  max-width: 200px;
+  max-width: 600px;
 }
 
 .carousel-item .image img {
@@ -558,9 +558,9 @@ input[type=text]:focus, select:focus {
 }
 /* Product Detail Section */
 #product-detail {
-  max-width: 800px;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 20px;
+  padding: 40px;
   background-color: #ffffff;
   -webkit-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
           box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -568,7 +568,7 @@ input[type=text]:focus, select:focus {
 }
 
 #product-detail img {
-  width: 70%; /* Reduced image size */
+  width: 400px; /* Reduced image size */
   height: auto;
   border-radius: 10px;
   margin-bottom: 20px;

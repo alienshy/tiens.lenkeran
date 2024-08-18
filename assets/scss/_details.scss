@@ -1,15 +1,15 @@
 /* Product Detail Section */
 #product-detail {
-    max-width: 800px;
+    max-width: 100%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 40px;
     background-color: #ffffff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
 
 #product-detail img {
-    width: 70%; /* Reduced image size */
+    width:400px; /* Reduced image size */
     height: auto;
     border-radius: 10px;
     margin-bottom: 20px;
